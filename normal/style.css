@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    transition: all 0.3s ease-in-out;
+}
+body{
+    font-family: "poppins",sans-serif;
+    overflow: hidden;
+}
+canvas{
+    /* height: 100%;
+    width: 100%; */
+    background: #000000;
+    margin-bottom: 0px;
+    border: 5px solid #000;;
+}
